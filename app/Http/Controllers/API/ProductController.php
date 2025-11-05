@@ -12,7 +12,7 @@ class ProductController extends Controller
     /**
      * Mostrar lista de los productos.
      */
-    public function list(Request $request)
+    public function show(Request $request)
     {
         $products = Product::all();
 

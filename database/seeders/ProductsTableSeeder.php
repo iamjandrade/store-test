@@ -16,19 +16,19 @@ class ProductsTableSeeder extends Seeder
         ([
             [
                 'name' => 'Producto A',
-                'price' => 1999,
+                'price' => 30,
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'name' => 'Producto B',
-                'price' => 2950,
+                'price' => 10,
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
             [
                 'name' => 'Producto C',
-                'price' => 999,
+                'price' => 20,
                 'created_at' => now(),
                 'updated_at' => now(),
             ],
